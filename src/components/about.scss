@@ -1,0 +1,8 @@
+@import '../variable.scss';
+.about{
+h2{
+   
+    border-width: 4px;
+    border-style: solid;
+     border-image: linear-gradient(to right, $color-from 0%, $color-to 100%) 0 0 100% 0;
+}}

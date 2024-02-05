@@ -1,0 +1,32 @@
+@import '../variable.scss';
+
+.home{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px; 
+
+   
+
+    header{
+        text-align: center;
+        padding-bottom: 10px;
+
+        h1{
+            color: $color-from;
+        }
+    }
+
+    .featured{
+
+
+        h2{
+            color: $color-from;
+        }
+    }
+
+    footer{
+        text-align: center;
+        border-top: 1px solid gray;
+        margin-top: 10px;
+    }
+}
